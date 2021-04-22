@@ -1,7 +1,10 @@
 B22 Learning Git
+<<<<<<< HEAD
 
 You made first commit
 Commit is almost like taking a picture of the changes at certain moment compared to previous moment
 
 It contains the changes you made and the author of the changes
 
+=======
+>>>>>>> parent of e2dd40d (Revert "added first file")
